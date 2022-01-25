@@ -22,3 +22,12 @@ def results(request, question_id):
 
 def vote(request, question_id):
     return HttpResponse("You're voting on question %s." % question_id)
+
+def about(request):
+    # return HttpResponse("about page placeholder")
+    return render(request, 
+        'polls/about.html',
+        {
+            'title': 'About',
+            'content': 'this is content text from views.py',
+        })
