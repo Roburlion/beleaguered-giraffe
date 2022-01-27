@@ -59,3 +59,10 @@ STATICFILES_DIRS = (
 Copied over runtime.txt
 
 Included requests in requirements
+
+# [Part 4: Forms and generic views](https://docs.djangoproject.com/en/4.0/intro/tutorial04/ "https://docs.djangoproject.com/en/4.0/intro/tutorial04/")
+
+Complete part 4 of the tutorial.
+
+
+
