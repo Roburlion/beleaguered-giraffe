@@ -60,9 +60,8 @@ Copied over runtime.txt
 
 Included requests in requirements
 
-# [Part 4: Forms and generic views](https://docs.djangoproject.com/en/4.0/intro/tutorial04/ "https://docs.djangoproject.com/en/4.0/intro/tutorial04/")
+# [Part 4: Forms and generic views](https://docs.djangoproject.com/en/4.0/intro/tutorial04/)
 
-Complete part 4 of the tutorial.
+We wrote a small form to vote on responses.
 
-
-
+Then, we changed index, detail, and results to use generic views.
