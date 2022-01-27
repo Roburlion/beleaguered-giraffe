@@ -4,6 +4,8 @@ To build a test site directly from the docs provided by Django.
 ## The work so far
 I've completed through Part 3 so far.  After a brief detour through trying to get this up on Heroku, I will resume with [Part 4](https://docs.djangoproject.com/en/4.0/intro/tutorial04/).
 
+This site is up and running at https://floating-taiga-14673.herokuapp.com/
+
 ## Heroku
 In the venv set up for the project:
 ```
